@@ -18,7 +18,9 @@ Requirements
 
 Install dependencies:
 pip install -r requirements.txt
+
 Run:
 python employee_scraper.py
+
 Run tests:
 python -m unittest test_employee_scraper.py
