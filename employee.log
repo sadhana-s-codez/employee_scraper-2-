@@ -1,0 +1,30 @@
+2026-06-30 01:28:51,719 - INFO - File downloaded successfully.
+2026-06-30 01:28:51,747 - ERROR - Missing Columns : ['Employee ID', 'Phone Number', 'Hire Date']
+2026-06-30 01:42:30,798 - INFO - File downloaded successfully.
+2026-06-30 01:42:30,813 - ERROR - Missing Columns : ['Employee ID', 'Phone Number', 'Hire Date']
+2026-06-30 07:04:32,888 - INFO - File downloaded successfully.
+2026-06-30 07:04:32,921 - ERROR - Missing Columns : ['User ID', 'Hire Date']
+2026-06-30 07:05:12,873 - INFO - File downloaded successfully.
+2026-06-30 07:05:12,890 - ERROR - Missing Columns : ['Hire Date']
+2026-06-30 07:06:04,009 - INFO - File downloaded successfully.
+2026-06-30 07:06:04,035 - ERROR - Missing Columns : ['Employee Id', 'Hire Date']
+2026-06-30 07:06:25,743 - INFO - File downloaded successfully.
+2026-06-30 07:06:25,758 - ERROR - Missing Columns : ['Hire Date']
+2026-06-30 07:53:53,917 - INFO - File downloaded successfully.
+2026-06-30 07:53:53,977 - ERROR - Missing Columns : ['Hire Date']
+2026-06-30 08:04:18,549 - INFO - File downloaded successfully.
+2026-06-30 08:04:18,722 - INFO - Data extraction completed successfully.
+2026-06-30 08:05:19,407 - INFO - File downloaded successfully.
+2026-06-30 08:05:19,412 - WARNING - Missing employee information detected.
+2026-06-30 08:11:38,552 - INFO - File downloaded successfully.
+2026-06-30 08:11:38,640 - INFO - Data extraction completed successfully.
+2026-06-30 08:12:57,599 - INFO - File downloaded successfully.
+2026-06-30 08:12:57,641 - WARNING - Missing employee information detected.
+2026-06-30 08:14:39,914 - INFO - File downloaded successfully.
+2026-06-30 08:14:39,918 - WARNING - Missing employee information detected.
+2026-06-30 08:23:35,815 - INFO - File downloaded successfully.
+2026-06-30 08:23:36,062 - INFO - Data extraction completed successfully.
+2026-06-30 08:27:13,672 - INFO - File downloaded successfully.
+2026-06-30 08:27:13,898 - INFO - Data extraction completed successfully.
+2026-06-30 08:27:34,819 - INFO - File downloaded successfully.
+2026-06-30 08:27:34,829 - WARNING - Missing employee information detected.
